@@ -1,0 +1,112 @@
+    [
+        {
+            "kunta": "Akaa",
+            "latitude": "61.169000",
+            "longitude": "23.858000"
+        },
+        {
+            "kunta": "Alahärmä",
+            "latitude": "63.233000",
+            "longitude": "22.850000"
+        },
+        {
+            "kunta": "Akaa",
+            "latitude": "61.169000",
+            "longitude": "23.858000"
+        },
+        {
+            "kunta": "Alahärmä",
+            "latitude": "63.233000",
+            "longitude": "22.850000"
+        },
+        {
+            "kunta": "Alajärvi",
+            "latitude": "63.000000",
+            "longitude": "23.817000"
+        },
+        {
+            "kunta": "Alastaro",
+            "latitude": "60.957000",
+            "longitude": "22.860000"
+        },
+        {
+            "kunta": "Alavieska",
+            "latitude": "64.167000",
+            "longitude": "24.300000"
+        },
+        {
+            "kunta": "Alavus",
+            "latitude": "62.583000",
+            "longitude": "23.617000"
+        },
+        {
+            "kunta": "Anjalankoski",
+            "latitude": "60.697000",
+            "longitude": "26.846000"
+        },
+        {
+            "kunta": "Artjärvi",
+            "latitude": "60.750000",
+            "longitude": "26.083000"
+        },
+        {
+            "kunta": "Asikkala",
+            "latitude": "61.173000",
+            "longitude": "25.549000"
+        },
+        {
+            "kunta": "Askainen",
+            "latitude": "60.571000",
+            "longitude": "21.866000"
+        },
+        {
+            "kunta": "Askola",
+            "latitude": "60.530000",
+            "longitude": "25.599000"
+        },
+        {
+            "kunta": "Aura",
+            "latitude": "60.646000",
+            "longitude": "22.577000"
+        },
+        {
+            "kunta": "Brändö",
+            "latitude": "60.413000",
+            "longitude": "21.047000"
+        },
+        {
+            "kunta": "Dragsfjärd",
+            "latitude": "60.067000",            
+            "longitude": "22.483000"
+        },
+        {
+            "kunta": "Eckerö",
+            "latitude": "60.213000",
+            "longitude": "19.614000"
+        },
+        {
+            "kunta": "Elimäki",
+            "latitude": "60.717000",
+            "longitude": "26.452000"
+        },
+        {
+            "kunta": "Eno",
+            "latitude": "62.800000",
+            "longitude": "30.150000"
+        },
+        {
+            "kunta": "Enonkoski",
+            "latitude": "62.083000",
+            "longitude": "28.933000"
+        },
+        {
+            "kunta": "Enontekiö",
+            "latitude": "68.383000",
+            "longitude": "23.633000"
+        },
+        {
+            "kunta": "Espoo",
+            "latitude": "60.209000",
+            "longitude": "24.658000"
+        }
+    ]
